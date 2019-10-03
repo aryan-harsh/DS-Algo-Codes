@@ -1,5 +1,5 @@
 # MyCodes
-This contains some basic and intermediate codes , primarily Data Structures, includes linked lists, graphs,etc.
+This contains some basic and intermediate codes , primarily Data Structures, includes linked lists, stacks, trees,graphs,etc.
 
 *You may contribute to this Project.* 
 **Check out the issues in the Issues tab**
