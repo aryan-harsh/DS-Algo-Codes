@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/ALGORITHMIC-THINKING-<BLUE>.svg)](https://shields.io/)
 
 
-#### Navigating the repo
+### Navigating the repo
 • This repository consists of codes (currently in C/C++) from various websites like : Interviewbit , GeeksforGeeks etc. 
 
 • For each website, there is / will be a corresponding folder, with subfolders for various topics like Arrays, Linked lists, Graphs etc.
